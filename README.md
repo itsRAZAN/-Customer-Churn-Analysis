@@ -68,6 +68,7 @@ The top three reasons are:
 
 ### Digging deeper into churn categories
 Churn Reasons are grouped together in the Churn Category column. The “Extra data charges”, “Price too high” and other price related reasons are grouped together in the “Price” category. We’ll be displaying all churn categories in one clear visualization
+
 ![6](https://user-images.githubusercontent.com/128379502/226718904-db5e808c-6536-4de4-a547-e55ad930c023.PNG)
 
 

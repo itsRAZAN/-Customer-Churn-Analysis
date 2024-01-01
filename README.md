@@ -1,5 +1,5 @@
 
-# Analyzing customer churn (CASE STUDY)
+# customer churn Analysis (CASE STUDY)
 
 ## 1.1 Background
  The problem on this case study is customer churn. We’ll be using a fictitious churn dataset from a Telecom provider called Databel where I am hired as a consultant, and my task is to analyze why customers are churning, or in other words, leaving Databel. This case study helps to understand why customers are churning at the rate they are, and how to reduce churn.

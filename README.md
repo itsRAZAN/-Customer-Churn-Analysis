@@ -63,8 +63,8 @@ Using Number of Customers and Churn Reason in a bar Chart in a descending order
 The top three reasons are:
 
 - Competitor made better offer (1st)
-- Competitor had better devices (2nd)
-- Attitude of support person (3rd)
+- Attitude of support person (2rd)
+- Competitor had better devices (3nd)
 
 ### Digging deeper into churn categories
 Churn Reasons are grouped together in the Churn Category column. The “Extra data charges”, “Price too high” and other price related reasons are grouped together in the “Price” category. We’ll be displaying all churn categories in one clear visualization
